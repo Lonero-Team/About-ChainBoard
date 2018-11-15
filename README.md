@@ -1,2 +1,3 @@
 # About-ChainBoard
-ChainBoard Page in README
+This is a community page in README meant to talk about the ChainBoard project
+### Under construction
